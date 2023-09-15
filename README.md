@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514689/6910/blob_smile.png?1643514689" width="30"/> Hi! Let's code a better world! <img src="https://emojis.slackmojis.com/emojis/images/1643510213/37910/earth.png?1643510213" width="30"/></h1>
 <p>Welcome to my page! </br> I'm Fernando, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b>Caxias do Sul, Brasil</b></p>
 <h3>Things I code with</h3>
-https://emojis.slackmojis.com/emojis/images/1643510213/37910/earth.png?1643510213
+
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -26,6 +26,10 @@ https://emojis.slackmojis.com/emojis/images/1643510213/37910/earth.png?164351021
 <h3>Where you can find me</h3>
 <p>
   <a href="https://www.linkedin.com/in/fernando-ghinzelli"><img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.twitter.com/fghinzelli"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.github.com/fghinzelli"><img alt="Github" src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.instagram.com/fghinzelli"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
 </p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=fghinzelli" height="150" alt="languages graph"  />
