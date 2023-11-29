@@ -1,5 +1,5 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514689/6910/blob_smile.png?1643514689" width="30"/> Hi! Let's code a better world! <img src="https://emojis.slackmojis.com/emojis/images/1643510213/37910/earth.png?1643510213" width="30"/></h1>
-<p>Welcome to my page! </br> I'm Fernando, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b>Caxias do Sul, Brasil</b></p>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514689/6910/blob_smile.png?1643514689" width="30"/> Hello friend! Let's code a better world! <img src="https://emojis.slackmojis.com/emojis/images/1643510213/37910/earth.png?1643510213" width="30"/></h1>
+<p>Welcome to my page! </br> I'm Fernando, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b>Brasil</b></p>
 <h3>Things I code with</h3>
 
 <p>
